@@ -20,7 +20,7 @@ elif role == 3:
 
 adress = input("Введите свой адресс""\n")
 
-card(1)
+card(2)
 
 
 
